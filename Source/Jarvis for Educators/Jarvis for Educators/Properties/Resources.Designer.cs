@@ -63,6 +63,46 @@ namespace Jarvis_for_Educators.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1467963862_Robot_13 {
+            get {
+                object obj = ResourceManager.GetObject("1467963862_Robot_13", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1467965560_42 {
+            get {
+                object obj = ResourceManager.GetObject("1467965560_42", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1467966611_Calendar {
+            get {
+                object obj = ResourceManager.GetObject("1467966611_Calendar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon iconAbout {
+            get {
+                object obj = ResourceManager.GetObject("iconAbout", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap WIN_20151028_153323 {
             get {
                 object obj = ResourceManager.GetObject("WIN_20151028_153323", resourceCulture);
